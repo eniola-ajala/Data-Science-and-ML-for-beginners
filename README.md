@@ -1,1 +1,1 @@
-Data science and Machine leaening
+Data science and Machine lear

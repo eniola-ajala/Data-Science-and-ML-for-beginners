@@ -1,1 +1,1 @@
-Data science and Ma
+Data science

@@ -1,1 +1,1 @@
-Data science
+Data sci
